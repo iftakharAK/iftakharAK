@@ -10,9 +10,9 @@ _A passionate Machine Learning and Artificial Intelligence Consultant from Bangl
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/ifty-khandokar/), [ResearchGate](https://www.researchgate.net/profile/Iftakhar-Khandokar), or check out my [Google Scholar](https://scholar.google.com/citations?user=6JVhWuQAAAAJ&hl=en&oi=ao) for publications.
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ifty-khandokar/)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Iftakhar-Khandokar)
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iftakhar.khandokar@marquette.edu)
+[![](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ifty-khandokar/)
+[![](https://img.shields.io/badge/-ResearchGate-green?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Iftakhar-Khandokar)
+[![](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iftakhar.khandokar@marquette.edu)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
