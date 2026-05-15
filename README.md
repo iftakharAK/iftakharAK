@@ -39,13 +39,13 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 ---
 
-## 🛠️ Selected Technologies
+##  Selected Technologies
 
 <table>
 <tr>
 <td valign="top" width="25%">
 
-### 💻 Languages
+###  Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,java,html,js,mysql" />
 
 </td>
