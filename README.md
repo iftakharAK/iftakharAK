@@ -1,38 +1,75 @@
-# Hi 👋, I'm Iftakhar Ali Khandokar
+# Iftakhar Ali Khandokar
 
-_A passionate Machine Learning and Artificial Intelligence Consultant from Bangladesh, currently pursuing research and developing cutting-edge AI and NLP solutions._
+PhD Candidate in Electrical & Computer Engineering at Marquette University specializing in Artificial Intelligence, Medical AI, Natural Language Processing, Computer Vision, and Large Language Models.
 
-- 🔭 I'm currently working as a **Research Assistant** at Marquette University.
-- 👨‍💻 Previously worked as a **Senior Machine Learning Engineer** at Spectrum Software & Consulting Ltd.
-- 🌱 Constantly learning and expanding skills in AI, NLP, and Computer Vision.
-- 💼 Open to collaborative AI and ML projects.
-- 📫 How to reach me: [iftakhar.khandokar@marquette.edu](mailto:iftakhar.khandokar@marquette.edu)
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/ifty-khandokar/), [ResearchGate](https://www.researchgate.net/profile/Iftakhar-Khandokar), or check out my [Google Scholar](https://scholar.google.com/citations?user=6JVhWuQAAAAJ&hl=en&oi=ao) for publications.
-
-## Connect with me:
-[![](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ifty-khandokar/)
-[![](https://img.shields.io/badge/-ResearchGate-green?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Iftakhar-Khandokar)
-[![](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iftakhar.khandokar@marquette.edu)
-
-## Languages and Tools:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
-
-## GitHub Stats:
-![Iftakhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide=stars,issues)
+My work focuses on building trustworthy and scalable AI systems for healthcare, multimodal learning, explainable AI, clinical NLP, and transformer-based architectures. I have research and industry experience developing deep learning systems across medical imaging, NLP, structured data analytics, and real-world AI deployment environments.
 
 ---
 
-**Most Used Languages:**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+## Research Interests
+
+* Medical AI & Clinical NLP
+* Large Language Models (LLMs)
+* Explainable & Trustworthy AI
+* Computer Vision & Medical Imaging
+* Retrieval-Augmented Generation (RAG)
+* Graph Neural Networks
+* Multimodal Deep Learning
+* Transformer Architectures
+
+---
+
+## Current Work
+
+* Trustworthy PHI De-identification using LLMs
+* Hallucination Detection in Clinical AI Systems
+* Multi-Statement Contradiction Detection with Verified Explanations
+* Retrieval-Augmented NLP Pipelines
+* Real-Time AI Analytics Systems using Microsoft Fabric
+
+---
+
+## Experience
+
+* PhD Candidate — Marquette University
+* Teaching Assistant — Marquette University
+* Research Assistant — Marquette University
+* Senior Machine Learning Engineer — Spectrum Software & Consulting Ltd.
+* Machine Learning Engineer — eGeneration Ltd.
+
+---
+
+## Selected Technologies
+
+**Languages:**
+Python, C/C++, Java, SQL, JavaScript
+
+**AI & Deep Learning:**
+PyTorch, TensorFlow, Hugging Face Transformers, MONAI, Detectron2
+
+**NLP & LLMs:**
+BERT, DeBERTa, T5, RAG Pipelines, FAISS, Pinecone
+
+**Computer Vision:**
+YOLO, Vision Transformers (ViT), CLIP, SAM, U-Net
+
+**Deployment & MLOps:**
+Docker, FastAPI, MLflow, ONNX, TensorRT
+
+**Cloud & Data Platforms:**
+AWS, Azure ML, Google Cloud, Microsoft Fabric
+
+---
+
+## Publications & Profiles
+
+* [Google Scholar](https://scholar.google.com/citations?user=6JVhWuQAAAAJ&hl=en&oi=ao)
+* [LinkedIn](https://www.linkedin.com/in/ifty-khandokar/)
+* [ResearchGate](https://www.researchgate.net/profile/Iftakhar-Khandokar)
+
+---
+
+## Contact
+
+[iftakhar.khandokar@marquette.edu](mailto:iftakhar.khandokar@marquette.edu)
+Milwaukee, Wisconsin, USA
