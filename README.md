@@ -1,4 +1,4 @@
-# Iftakhar Ali Khandokar
+# Hi 👋, I'm Iftakhar Ali Khandokar
 
 PhD Candidate in Electrical & Computer Engineering at Marquette University specializing in Artificial Intelligence, Medical AI, Natural Language Processing, Computer Vision, and Large Language Models.
 
@@ -6,7 +6,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 ---
 
-##  Research Interests
+# 🔬 Research Interests
 
 - Medical AI & Clinical NLP
 - Large Language Models (LLMs)
@@ -19,7 +19,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 ---
 
-##  Current Work
+# 🚀 Current Work
 
 - Trustworthy PHI De-identification using LLMs
 - Hallucination Detection in Clinical AI Systems
@@ -29,7 +29,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
 - PhD Candidate — Marquette University
 - Teaching Assistant — Marquette University
@@ -39,63 +39,114 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 ---
 
-# 🌐 Connect With Me
+## 🛠️ Selected Technologies
 
-<p align="left">
-<a href="https://scholar.google.com/citations?user=6JVhWuQAAAAJ&hl=en&oi=ao" target="_blank">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
-</a>
+<table>
+<tr>
+<td valign="top" width="25%">
 
-<a href="https://www.linkedin.com/in/ifty-khandokar/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,js,mysql" />
 
-<a href="https://www.researchgate.net/profile/Iftakhar-Khandokar" target="_blank">
-  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
-</a>
-</p>
+</td>
+<td valign="top" width="25%">
+
+### 🧠 AI & Deep Learning
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<br><br>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+<img src="https://img.shields.io/badge/MONAI-6E6E6E?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Detectron2-1877F2?style=for-the-badge" />
+
+</td>
+<td valign="top" width="25%">
+
+### 💬 NLP & LLMs
+
+<img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/DeBERTa-7B68EE?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/T5-4A90E2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/RAG-Pipelines-green?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Pinecone-0DBD8B?style=for-the-badge" />
+
+</td>
+<td valign="top" width="25%">
+
+### 👁️ Computer Vision
+
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ViT-5B5BFF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/CLIP-111111?style=for-the-badge&logo=openai" />
+
+<img src="https://img.shields.io/badge/SAM-000000?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/U--Net-555555?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Technologies & Tools
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<p align="left">
+### 🚀 Deployment & MLOps
 
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://skillicons.dev/icons?i=docker,fastapi,git,github,linux,vscode" />
+<br><br>
 
-<!-- AI -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge" />
 
-<!-- Cloud -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/>
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
-</p>
+</td>
+<td valign="top" width="50%">
+
+### ☁️ Cloud & Data Platforms
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-F2C811?style=for-the-badge&logo=microsoft&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📚 AI / NLP / CV Frameworks
+# 🌐 Publications & Profiles
 
 <p align="left">
 
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Faiss_logo.svg" width="65" height="45"/>
-<img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/onnx/onnx/main/docs/ONNX-ICON.png" width="45" height="45"/>
-<img src="https://miro.medium.com/v2/resize:fit:400/1*ZkhlrerSxwF7P0r7M6JkNw.png" width="45" height="45"/>
+<a href="https://scholar.google.com/citations?user=6JVhWuQAAAAJ&hl=en&oi=ao">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ifty-khandokar/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.researchgate.net/profile/Iftakhar-Khandokar">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+</a>
 
 </p>
 
@@ -105,9 +156,9 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikhandokar212023&show_icons=true&theme=default"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhandokar212023&layout=compact&theme=default"/>
 
 </p>
 
@@ -115,5 +166,12 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 # 📫 Contact
 
-- 📧 iftakhar.khandokar@marquette.edu
-- 📍 Milwaukee, Wisconsin, USA
+<p align="left">
+
+<img src="https://img.shields.io/badge/Email-iftakhar.khandokar%40marquette.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Location-Milwaukee,%20Wisconsin,%20USA-FF3B30?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+</p>
