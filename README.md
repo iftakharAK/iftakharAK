@@ -1,4 +1,4 @@
-# Hi 👋, I'm Iftakhar Ali Khandokar
+# Iftakhar Ali Khandokar
 
 PhD Candidate in Electrical & Computer Engineering at Marquette University specializing in Artificial Intelligence, Medical AI, Natural Language Processing, Computer Vision, and Large Language Models.
 
@@ -6,7 +6,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 ---
 
-# 🔬 Research Interests
+#  Research Interests
 
 - Medical AI & Clinical NLP
 - Large Language Models (LLMs)
@@ -19,7 +19,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 ---
 
-# 🚀 Current Work
+#  Current Work
 
 - Trustworthy PHI De-identification using LLMs
 - Hallucination Detection in Clinical AI Systems
@@ -29,7 +29,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 ---
 
-# 💼 Experience
+#  Experience
 
 - PhD Candidate — Marquette University
 - Teaching Assistant — Marquette University
