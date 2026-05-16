@@ -237,32 +237,28 @@ I have research and industry experience developing deep learning systems across 
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 
 <td valign="top" width="50%">
 
 # 🌐 PUBLICATIONS & PROFILES
 
-<p align="center">
+<div align="center">
 
 <a href="https://scholar.google.com/citations?user=6JVhWuQAAAAJ&hl=en&oi=ao">
-  <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/scholar.png" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/scholar.png" width="85"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/ifty-khandokar/">
-  <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/linkedin.png" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/linkedin.png" width="85"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.researchgate.net/profile/Iftakhar-Khandokar">
-  <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/rg.png" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/rg.png" width="85"/>
 </a>
 
-</p>
+</div>
 
 </td>
 
