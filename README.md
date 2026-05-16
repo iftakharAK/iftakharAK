@@ -240,24 +240,24 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="50%">
 
-#  PUBLICATIONS & PROFILES
+# 🌐 PUBLICATIONS & PROFILES
 
 <p align="left">
 
 <a href="https://scholar.google.com/citations?user=6JVhWuQAAAAJ&hl=en&oi=ao">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/scholar.png" width="70"/>
 </a>
 
-<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/ifty-khandokar/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/linkedin.png" width="70"/>
 </a>
 
-<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.researchgate.net/profile/Iftakhar-Khandokar">
-<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/rg.png" width="70"/>
 </a>
 
 </p>
