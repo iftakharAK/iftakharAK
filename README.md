@@ -106,36 +106,45 @@ I have research and industry experience developing deep learning systems across 
 
 # 🛠️ SELECTED TECHNOLOGIES
 
-<table>
+<table width="100%">
+
 <tr>
 
-<td valign="top" width="25%">
+<td valign="top" width="50%">
 
 ### 💻 LANGUAGES
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
-<img src="https://skillicons.dev/icons?i=java" width="55"/>
-<img src="https://skillicons.dev/icons?i=html" width="55"/>
-<img src="https://skillicons.dev/icons?i=js" width="55"/>
+<img src="https://skillicons.dev/icons?i=python" width="60"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="60"/>
+<img src="https://skillicons.dev/icons?i=java" width="60"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html" width="60"/>
+<img src="https://skillicons.dev/icons?i=js" width="60"/>
 
 </p>
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="50%">
 
 ### 🧠 AI & DEEP LEARNING
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="55"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="60"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="60"/>
 
-<br><br>
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="60"/>
+
+</p>
+
+<br>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/MONAI-555555?style=for-the-badge"/>
 
@@ -145,7 +154,11 @@ I have research and industry experience developing deep learning systems across 
 
 </td>
 
-<td valign="top" width="25%">
+</tr>
+
+<tr>
+
+<td valign="top" width="50%">
 
 ### 💬 NLP & LLMs
 
@@ -157,6 +170,10 @@ I have research and industry experience developing deep learning systems across 
 
 <img src="https://img.shields.io/badge/T5-4A90E2?style=for-the-badge"/>
 
+</p>
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/RAG-Pipelines-green?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
@@ -167,7 +184,7 @@ I have research and industry experience developing deep learning systems across 
 
 </td>
 
-<td valign="top" width="25%">
+<td valign="top" width="50%">
 
 ### 👁️ COMPUTER VISION
 
@@ -181,6 +198,10 @@ I have research and industry experience developing deep learning systems across 
 
 <img src="https://img.shields.io/badge/SAM-000000?style=for-the-badge"/>
 
+</p>
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/U--Net-555555?style=for-the-badge"/>
 
 </p>
@@ -188,51 +209,7 @@ I have research and industry experience developing deep learning systems across 
 </td>
 
 </tr>
-</table>
 
----
-
-<table>
-<tr>
-
-<td valign="top" width="50%">
-
-### 🚀 DEPLOYMENT & MLOPS
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker" width="55"/>
-<img src="https://skillicons.dev/icons?i=fastapi" width="55"/>
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-
-</p>
-
-</td>
-
-<td valign="top" width="50%">
-
-### ☁️ CLOUD & DATA PLATFORMS
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws" width="55"/>
-<img src="https://skillicons.dev/icons?i=azure" width="55"/>
-<img src="https://skillicons.dev/icons?i=gcp" width="55"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-F2C811?style=for-the-badge&logo=microsoft&logoColor=black"/>
-
-</p>
-
-</td>
-
-</tr>
 </table>
 
 ---
@@ -250,9 +227,13 @@ I have research and industry experience developing deep learning systems across 
 <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/scholar.png" width="85"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/ifty-khandokar/">
 <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/linkedin.png" width="85"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.researchgate.net/profile/Iftakhar-Khandokar">
 <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/rg.png" width="85"/>
