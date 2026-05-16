@@ -20,31 +20,31 @@ I have research and industry experience developing deep learning systems across 
 
 ---
 
-# 📒 RESEARCH INTERESTS
+#  RESEARCH INTERESTS
 
 <table>
 <tr>
 
 <td width="33%">
 
-- 🧠 Medical AI & Clinical NLP  
-- 📷 Computer Vision & Medical Imaging  
-- 🌐 Multimodal Deep Learning  
+-  Medical AI & Clinical NLP  
+-  Computer Vision & Medical Imaging  
+-  Multimodal Deep Learning  
 
 </td>
 
 <td width="33%">
 
-- 🤖 Large Language Models (LLMs)  
-- 🔍 Retrieval-Augmented Generation (RAG)  
-- ⚡ Transformer Architectures  
+-  Large Language Models (LLMs)  
+-  Retrieval-Augmented Generation (RAG)  
+-  Transformer Architectures  
 
 </td>
 
 <td width="33%">
 
-- 🛡️ Explainable & Trustworthy AI  
-- 🔗 Graph Neural Networks  
+-  Explainable & Trustworthy AI  
+-  Graph Neural Networks  
 
 </td>
 
@@ -53,28 +53,28 @@ I have research and industry experience developing deep learning systems across 
 
 ---
 
-# ⭐ CURRENT WORK
+#  CURRENT WORK
 
 <table>
 <tr>
 
 <td width="33%">
 
-- 🔒 Trustworthy PHI De-identification using LLMs  
-- 🧬 Multi-Statement Contradiction Detection with Verified Explanations  
+-  Trustworthy PHI De-identification using LLMs  
+-  Multi-Statement Contradiction Detection with Verified Explanations  
 
 </td>
 
 <td width="33%">
 
-- 🔎 Hallucination Detection in Clinical AI Systems  
-- 📑 Retrieval-Augmented NLP Pipelines  
+-  Hallucination Detection in Clinical AI Systems  
+-  Retrieval-Augmented NLP Pipelines  
 
 </td>
 
 <td width="33%">
 
-- 📊 Real-Time AI Analytics Systems using Microsoft Fabric  
+-  Real-Time AI Analytics Systems using Microsoft Fabric  
 
 </td>
 
@@ -83,23 +83,23 @@ I have research and industry experience developing deep learning systems across 
 
 ---
 
-# 💼 EXPERIENCE
+#  EXPERIENCE
 
 <table>
 <tr>
 
 <td width="33%">
 
-- 🎓 PhD Candidate — Marquette University  
-- 👨‍🏫 Teaching Assistant — Marquette University  
-- 🔬 Research Assistant — Marquette University  
+-  PhD Candidate — Marquette University  
+-  Teaching Assistant — Marquette University  
+-  Research Assistant — Marquette University  
 
 </td>
 
 <td width="33%">
 
-- 💼 Senior Machine Learning Engineer — Spectrum Software & Consulting Ltd.  
-- 💻 Machine Learning Engineer — eGeneration Ltd.  
+-  Senior Machine Learning Engineer — Spectrum Software & Consulting Ltd.  
+-  Machine Learning Engineer — eGeneration Ltd.  
 
 </td>
 
@@ -108,14 +108,14 @@ I have research and industry experience developing deep learning systems across 
 
 ---
 
-# 🛠️ SELECTED TECHNOLOGIES
+#  SELECTED TECHNOLOGIES
 
 <table>
 <tr>
 
 <td valign="top" width="25%">
 
-### 💻 LANGUAGES
+###  LANGUAGES
 
 <p align="center">
 
@@ -131,7 +131,7 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="25%">
 
-### 🧠 AI & DEEP LEARNING
+###  AI & DEEP LEARNING
 
 <p align="center">
 
@@ -150,7 +150,7 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="25%">
 
-### 💬 NLP & LLMs
+###  NLP & LLMs
 
 <p align="center">
 
@@ -172,7 +172,7 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="25%">
 
-### 👁️ COMPUTER VISION
+###  COMPUTER VISION
 
 <p align="center">
 
@@ -200,7 +200,7 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="50%">
 
-### 🚀 DEPLOYMENT & MLOPS
+###  DEPLOYMENT & MLOPS
 
 <p align="center">
 
@@ -216,7 +216,7 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="50%">
 
-### ☁️ CLOUD & DATA PLATFORMS
+###  CLOUD & DATA PLATFORMS
 
 <p align="center">
 
@@ -240,7 +240,7 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="50%">
 
-# 🌐 PUBLICATIONS & PROFILES
+#  PUBLICATIONS & PROFILES
 
 <p align="left">
 
@@ -266,7 +266,7 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="50%">
 
-# 📫 CONTACT
+#  CONTACT
 
 <p align="left">
 
