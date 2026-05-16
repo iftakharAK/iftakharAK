@@ -51,7 +51,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 </td>
 <td valign="top" width="25%">
 
-### 🧠 AI & Deep Learning
+###  AI & Deep Learning
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 <br><br>
 
@@ -64,7 +64,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 </td>
 <td valign="top" width="25%">
 
-### 💬 NLP & LLMs
+###  NLP & LLMs
 
 <img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge" />
 
@@ -81,7 +81,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 </td>
 <td valign="top" width="25%">
 
-### 👁️ Computer Vision
+###  Computer Vision
 
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge" />
 
@@ -103,7 +103,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 <tr>
 <td valign="top" width="50%">
 
-### 🚀 Deployment & MLOps
+###  Deployment & MLOps
 
 <img src="https://skillicons.dev/icons?i=docker,fastapi,git,github,linux,vscode" />
 <br><br>
@@ -117,7 +117,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 </td>
 <td valign="top" width="50%">
 
-### ☁️ Cloud & Data Platforms
+###  Cloud & Data Platforms
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 <br><br>
@@ -132,7 +132,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 ---
 
-# 🌐 Publications & Profiles
+#  Publications & Profiles
 
 <p align="left">
 
@@ -152,7 +152,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -164,7 +164,7 @@ My work focuses on building trustworthy and scalable AI systems for healthcare, 
 
 ---
 
-# 📫 Contact
+#  Contact
 
 <p align="left">
 
