@@ -268,8 +268,8 @@ I have research and industry experience developing deep learning systems across 
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iftakharAK&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iftakharAK&show_icons=true&theme=default&hide_border=false"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharAK&layout=compact&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharAK&layout=compact&theme=default&hide_border=false"/>
 
 </p>
