@@ -268,8 +268,26 @@ I have research and industry experience developing deep learning systems across 
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iftakharAK&show_icons=true&theme=default"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iftakharAK&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&icon_color=58A6FF&title_color=58A6FF"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iftakharAK&layout=compact&theme=default"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iftakharAK&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=58A6FF"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iftakharAK&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftakharAK&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iftakharAK&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
