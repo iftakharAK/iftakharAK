@@ -10,41 +10,37 @@ Artificial Intelligence • Medical AI • NLP • Computer Vision • Large Lan
 
 ---
 
-<p align="left">
-
 PhD Candidate specializing in trustworthy and scalable AI systems for healthcare, multimodal learning, explainable AI, clinical NLP, retrieval-augmented systems, and transformer-based architectures.
 
 I have research and industry experience developing deep learning systems across medical imaging, NLP, structured data analytics, and real-world AI deployment environments.
 
-</p>
-
 ---
 
-#  RESEARCH INTERESTS
+# 📒 RESEARCH INTERESTS
 
 <table>
 <tr>
 
 <td width="33%">
 
--  Medical AI & Clinical NLP  
--  Computer Vision & Medical Imaging  
--  Multimodal Deep Learning  
+- 🧠 Medical AI & Clinical NLP  
+- 📷 Computer Vision & Medical Imaging  
+- 🌐 Multimodal Deep Learning  
 
 </td>
 
 <td width="33%">
 
--  Large Language Models (LLMs)  
--  Retrieval-Augmented Generation (RAG)  
--  Transformer Architectures  
+- 🤖 Large Language Models (LLMs)  
+- 🔍 Retrieval-Augmented Generation (RAG)  
+- ⚡ Transformer Architectures  
 
 </td>
 
 <td width="33%">
 
--  Explainable & Trustworthy AI  
--  Graph Neural Networks  
+- 🛡️ Explainable & Trustworthy AI  
+- 🔗 Graph Neural Networks  
 
 </td>
 
@@ -53,28 +49,28 @@ I have research and industry experience developing deep learning systems across 
 
 ---
 
-#  CURRENT WORK
+# ⭐ CURRENT WORK
 
 <table>
 <tr>
 
 <td width="33%">
 
--  Trustworthy PHI De-identification using LLMs  
--  Multi-Statement Contradiction Detection with Verified Explanations  
+- 🔒 Trustworthy PHI De-identification using LLMs  
+- 🧬 Multi-Statement Contradiction Detection with Verified Explanations  
 
 </td>
 
 <td width="33%">
 
--  Hallucination Detection in Clinical AI Systems  
--  Retrieval-Augmented NLP Pipelines  
+- 🔎 Hallucination Detection in Clinical AI Systems  
+- 📑 Retrieval-Augmented NLP Pipelines  
 
 </td>
 
 <td width="33%">
 
--  Real-Time AI Analytics Systems using Microsoft Fabric  
+- 📊 Real-Time AI Analytics Systems using Microsoft Fabric  
 
 </td>
 
@@ -83,23 +79,23 @@ I have research and industry experience developing deep learning systems across 
 
 ---
 
-#  EXPERIENCE
+# 💼 EXPERIENCE
 
 <table>
 <tr>
 
-<td width="33%">
+<td width="50%">
 
--  PhD Candidate — Marquette University  
--  Teaching Assistant — Marquette University  
--  Research Assistant — Marquette University  
+- 🎓 PhD Candidate — Marquette University  
+- 👨‍🏫 Teaching Assistant — Marquette University  
+- 🔬 Research Assistant — Marquette University  
 
 </td>
 
-<td width="33%">
+<td width="50%">
 
--  Senior Machine Learning Engineer — Spectrum Software & Consulting Ltd.  
--  Machine Learning Engineer — eGeneration Ltd.  
+- 💼 Senior Machine Learning Engineer — Spectrum Software & Consulting Ltd.  
+- 💻 Machine Learning Engineer — eGeneration Ltd.  
 
 </td>
 
@@ -108,14 +104,14 @@ I have research and industry experience developing deep learning systems across 
 
 ---
 
-#  SELECTED TECHNOLOGIES
+# 🛠️ SELECTED TECHNOLOGIES
 
 <table>
 <tr>
 
 <td valign="top" width="25%">
 
-###  LANGUAGES
+### 💻 LANGUAGES
 
 <p align="center">
 
@@ -131,14 +127,15 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="25%">
 
-###  AI & DEEP LEARNING
+### 🧠 AI & DEEP LEARNING
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
 <img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
-
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="55"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/MONAI-555555?style=for-the-badge"/>
 
@@ -150,7 +147,7 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="25%">
 
-###  NLP & LLMs
+### 💬 NLP & LLMs
 
 <p align="center">
 
@@ -172,7 +169,7 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="25%">
 
-###  COMPUTER VISION
+### 👁️ COMPUTER VISION
 
 <p align="center">
 
@@ -200,14 +197,17 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="50%">
 
-###  DEPLOYMENT & MLOPS
+### 🚀 DEPLOYMENT & MLOPS
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=docker" width="55"/>
 <img src="https://skillicons.dev/icons?i=fastapi" width="55"/>
+
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 </p>
@@ -216,13 +216,15 @@ I have research and industry experience developing deep learning systems across 
 
 <td valign="top" width="50%">
 
-###  CLOUD & DATA PLATFORMS
+### ☁️ CLOUD & DATA PLATFORMS
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=aws" width="55"/>
 <img src="https://skillicons.dev/icons?i=azure" width="55"/>
 <img src="https://skillicons.dev/icons?i=gcp" width="55"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Microsoft%20Fabric-F2C811?style=for-the-badge&logo=microsoft&logoColor=black"/>
 
@@ -237,8 +239,6 @@ I have research and industry experience developing deep learning systems across 
 
 <table>
 <tr>
-
-<td valign="top" width="50%">
 
 <td valign="top" width="50%">
 
@@ -266,7 +266,9 @@ I have research and industry experience developing deep learning systems across 
 
 </td>
 
-#  CONTACT
+<td valign="top" width="50%">
+
+# 📫 CONTACT
 
 <p align="left">
 
@@ -289,8 +291,8 @@ I have research and industry experience developing deep learning systems across 
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikhandokar212023&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iftakharAK&show_icons=true&theme=transparent"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhandokar212023&layout=compact&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharAK&layout=compact&theme=transparent"/>
 
 </p>
