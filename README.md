@@ -16,31 +16,179 @@ I have research and industry experience developing deep learning systems across 
 
 ---
 
-# 📒 RESEARCH INTERESTS
+<br>
 
-<table>
+<div align="center">
+
+# BUILDING INTELLIGENT SOLUTIONS  
+# WITH AI, DATA & IMPACT
+
+### AI Engineer • Researcher • Builder
+
+Turning ideas into scalable intelligent systems that solve real-world problems.
+
+</div>
+
+---
+
+<table width="100%">
 <tr>
 
-<td width="33%">
+<td width="25%" align="center">
 
-- 🧠 Medical AI & Clinical NLP  
-- 📷 Computer Vision & Medical Imaging  
-- 🌐 Multimodal Deep Learning  
+## 🧠 AI & ML
 
-</td>
-
-<td width="33%">
-
-- 🤖 Large Language Models (LLMs)  
-- 🔍 Retrieval-Augmented Generation (RAG)  
-- ⚡ Transformer Architectures  
+LLMs • RAG  
+NLP • CV  
+Transformers  
 
 </td>
 
-<td width="33%">
+<td width="25%" align="center">
 
-- 🛡️ Explainable & Trustworthy AI  
-- 🔗 Graph Neural Networks  
+## 👁️ Computer Vision
+
+YOLO • ViT • U-Net  
+OpenCV  
+Medical Imaging  
+
+</td>
+
+<td width="25%" align="center">
+
+## ⚙️ MLOps & Deployment
+
+Docker • CI/CD  
+MLflow • FastAPI  
+ONNX • APIs  
+
+</td>
+
+<td width="25%" align="center">
+
+## 📊 Data & Analytics
+
+Spark • SQL  
+Power BI • Tableau  
+Insights & Dashboards  
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=gcp" height="55"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openai/000000" height="55"/>
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="20%" align="center">
+
+## 🎓 PhD Candidate
+
+Electrical & Computer Engineering  
+
+</td>
+
+<td width="20%" align="center">
+
+## 🔬 Researcher
+
+NLP • CV • GNNs  
+Healthcare AI  
+
+</td>
+
+<td width="20%" align="center">
+
+## 📚 Published
+
+Medical AI  
+Explainability  
+Clinical NLP  
+
+</td>
+
+<td width="20%" align="center">
+
+## 🚀 Builder
+
+AI Products  
+Scalable Systems  
+
+</td>
+
+<td width="20%" align="center">
+
+## 🌍 Open To
+
+Research Collaboration  
+AI Opportunities  
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📒 RESEARCH INTERESTS
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+### 🧠 Medical AI
+
+- Clinical NLP  
+- Healthcare LLMs  
+- Explainable AI  
+- Trustworthy AI  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Multimodal AI
+
+- Vision-Language Models  
+- Retrieval-Augmented Systems  
+- Graph Neural Networks  
+- Transformer Architectures  
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📷 Computer Vision
+
+- Medical Imaging  
+- Object Detection  
+- Segmentation Models  
+- Vision Transformers  
 
 </td>
 
@@ -51,26 +199,28 @@ I have research and industry experience developing deep learning systems across 
 
 # ⭐ CURRENT WORK
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%">
+<td width="50%" valign="top">
 
-- 🔒 Trustworthy PHI De-identification using LLMs  
-- 🧬 Multi-Statement Contradiction Detection with Verified Explanations  
+### 🔒 Clinical AI & NLP
 
-</td>
-
-<td width="33%">
-
-- 🔎 Hallucination Detection in Clinical AI Systems  
-- 📑 Retrieval-Augmented NLP Pipelines  
+- Trustworthy PHI De-identification  
+- Hallucination Detection in LLMs  
+- Retrieval-Augmented Clinical NLP  
+- Explainable Healthcare AI  
 
 </td>
 
-<td width="33%">
+<td width="50%" valign="top">
 
-- 📊 Real-Time AI Analytics Systems using Microsoft Fabric  
+### ⚡ Intelligent Systems
+
+- Multi-Statement Contradiction Detection  
+- Verified Explanation Generation  
+- Microsoft Fabric Analytics Systems  
+- AI Deployment & Scalable Pipelines  
 
 </td>
 
@@ -81,21 +231,25 @@ I have research and industry experience developing deep learning systems across 
 
 # 💼 EXPERIENCE
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-- 🎓 PhD Candidate — Marquette University  
-- 👨‍🏫 Teaching Assistant — Marquette University  
-- 🔬 Research Assistant — Marquette University  
+### 🎓 Academic
+
+- PhD Candidate — Marquette University  
+- Research Assistant — Marquette University  
+- Teaching Assistant — Marquette University  
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-- 💼 Senior Machine Learning Engineer — Spectrum Software & Consulting Ltd.  
-- 💻 Machine Learning Engineer — eGeneration Ltd.  
+### 💻 Industry
+
+- Senior Machine Learning Engineer — Spectrum Software & Consulting Ltd.  
+- Machine Learning Engineer — eGeneration Ltd.  
 
 </td>
 
@@ -104,53 +258,47 @@ I have research and industry experience developing deep learning systems across 
 
 ---
 
-# 🛠️ SELECTED TECHNOLOGIES
+# 🛠️ TECHNOLOGY STACK
 
 <table width="100%">
 
 <tr>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 💻 LANGUAGES
+## 💻 Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="60"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="60"/>
-<img src="https://skillicons.dev/icons?i=java" width="60"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=sql" height="55"/>
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=html" width="60"/>
-<img src="https://skillicons.dev/icons?i=js" width="60"/>
-
-</p>
+</div>
 
 </td>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 🧠 AI & DEEP LEARNING
+## 🤖 AI & Deep Learning
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=pytorch" width="60"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" width="60"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+&nbsp;
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="55"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/openai/000000" height="55"/>
 
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="60"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MONAI-555555?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Detectron2-1877F2?style=for-the-badge"/>
-
-</p>
+</div>
 
 </td>
 
@@ -158,53 +306,45 @@ I have research and industry experience developing deep learning systems across 
 
 <tr>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 💬 NLP & LLMs
+## 💬 NLP & LLMs
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BERT-FFFFFF?style=for-the-badge&logo=google&logoColor=blue"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/DeBERTa-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DeBERTa-FFFFFF?style=for-the-badge&logoColor=blue"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/T5-4A90E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FFFFFF?style=for-the-badge&logoColor=blue"/>
+<br><br>
 
-</p>
+<img src="https://img.shields.io/badge/FAISS-FFFFFF?style=for-the-badge&logoColor=blue"/>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/RAG-Pipelines-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pinecone-0DBD8B?style=for-the-badge"/>
-
-</p>
+</div>
 
 </td>
 
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 👁️ COMPUTER VISION
+## 👁️ Computer Vision
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-FFFFFF?style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/ViT-5B5BFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ViT-FFFFFF?style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/CLIP-111111?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/U--Net-FFFFFF?style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/SAM-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=blue"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/U--Net-555555?style=for-the-badge"/>
-
-</p>
+</div>
 
 </td>
 
@@ -213,11 +353,6 @@ I have research and industry experience developing deep learning systems across 
 </table>
 
 ---
-
-<table width="100%">
-<tr>
-
-<td valign="top" width="50%">
 
 # 🌐 PUBLICATIONS & PROFILES
 
@@ -239,55 +374,60 @@ I have research and industry experience developing deep learning systems across 
 <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/rg.png" width="85"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/iftakharAK">
+<img src="https://skillicons.dev/icons?i=github" width="70"/>
+</a>
+
 </div>
 
-</td>
-
-<td valign="top" width="50%">
+---
 
 # 📫 CONTACT
 
-<p align="left">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Email-iftakhar.khandokar%40marquette.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+### 📍 Milwaukee, Wisconsin, USA
 
-<br><br>
+### 📧 iftakhar.khandokar@marquette.edu
 
-<img src="https://img.shields.io/badge/Location-Milwaukee,%20Wisconsin,%20USA-FF3B30?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+### 🤝 Open to AI Research, Industry Collaboration & Global Opportunities
 
-</p>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 # 📊 GITHUB STATS
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iftakharAK&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&icon_color=58A6FF&title_color=58A6FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iftakharAK&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=111827&bg_color=ffffff"/>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iftakharAK&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=58A6FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharAK&layout=compact&hide_border=true&title_color=2563EB&text_color=111827&bg_color=ffffff"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iftakharAK&theme=tokyonight&hide_border=true&border_radius=15"/>
+<div align="center">
 
-</p>
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=iftakharAK&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=111827&currStreakNum=111827&sideNums=111827"/>
 
-<p align="center">
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftakharAK&theme=tokyonight"/>
+<br>
 
-</p>
+<div align="center">
 
-<p align="center">
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftakharAK&theme=default"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=iftakharAK&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
 
-</p>
+---
+
+<div align="center">
+
+## “Building trustworthy AI systems with real-world impact.”
+
+</div>
