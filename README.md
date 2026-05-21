@@ -71,7 +71,10 @@ ONNX • APIs
 
 <td width="25%" align="center">
 
-## 📊 Data & Analytics
+##  Data & Analytics
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/analytics.png" width="85"/>
+
 
 Spark • SQL  
 Power BI • Tableau  
