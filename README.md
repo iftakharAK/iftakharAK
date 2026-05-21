@@ -383,11 +383,35 @@ AI Opportunities
 
 <div align="center">
 
-### 📍 Milwaukee, Wisconsin, USA
+<table>
+<tr>
+<td align="center" width="420">
 
-### 📧 iftakhar.khandokar@marquette.edu
+<img src="https://img.icons8.com/fluency/48/new-post.png" width="28"/>
 
-### 🤝 Open to AI Research, Industry Collaboration & Global Opportunities
+&nbsp;
+
+<a href="mailto:iftakhar.khandokar@marquette.edu">
+<b>iftakhar.khandokar@marquette.edu</b>
+</a>
+
+</td>
+
+<td align="center" width="320">
+
+<img src="https://img.icons8.com/fluency/48/marker.png" width="30"/>
+
+&nbsp;
+
+<b>Milwaukee, Wisconsin, USA</b>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<b>🤝 Open to AI Research, Industry Collaboration & Global Opportunities</b>
 
 </div>
 
