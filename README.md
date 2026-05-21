@@ -59,7 +59,9 @@ Medical Imaging
 
 <td width="25%" align="center">
 
-## ⚙️ MLOps & Deployment
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/MLOPS.png" width="85"/>
+
+##  MLOps & Deployment
 
 Docker • CI/CD  
 MLflow • FastAPI  
