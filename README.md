@@ -411,7 +411,7 @@ AI Opportunities
 
 <br>
 
-<b>🤝 Open to AI Research, Industry Collaboration & Global Opportunities</b>
+<b> Open to AI Research, Industry Collaboration & Global Opportunities</b>
 
 </div>
 
