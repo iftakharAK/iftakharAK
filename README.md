@@ -35,7 +35,9 @@ Turning ideas into scalable intelligent systems that solve real-world problems.
 
 <td width="25%" align="center">
 
-## 🧠 AI & ML
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/AIML.png" width="85"/>
+
+## AI & ML
 
 LLMs • RAG  
 NLP • CV  
