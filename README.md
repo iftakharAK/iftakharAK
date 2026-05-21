@@ -373,9 +373,7 @@ AI Opportunities
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/iftakharAK">
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/github.png" width="75"/>
-</a>
+
 
 </div>
 
