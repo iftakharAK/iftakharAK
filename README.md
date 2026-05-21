@@ -116,60 +116,7 @@ Insights & Dashboards
 
 </div>
 
----
 
-<table width="100%">
-<tr>
-
-<td width="20%" align="center">
-
-## 🎓 PhD Candidate
-
-Electrical & Computer Engineering  
-
-</td>
-
-<td width="20%" align="center">
-
-## 🔬 Researcher
-
-NLP • CV • GNNs  
-Healthcare AI  
-
-</td>
-
-<td width="20%" align="center">
-
-## 📚 Published
-
-Medical AI  
-Explainability  
-Clinical NLP  
-
-</td>
-
-<td width="20%" align="center">
-
-## 🚀 Builder
-
-AI Products  
-Scalable Systems  
-
-</td>
-
-<td width="20%" align="center">
-
-## 🌍 Open To
-
-Research Collaboration  
-AI Opportunities  
-
-</td>
-
-</tr>
-</table>
-
----
 
 # 📒 RESEARCH INTERESTS
 
