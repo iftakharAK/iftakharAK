@@ -1,12 +1,8 @@
-<div align="center">
-
 # Iftakhar Ali Khandokar
 
 ### PhD Candidate in Electrical & Computer Engineering — Marquette University
 
 Artificial Intelligence • Medical AI • NLP • Computer Vision • Large Language Models
-
-</div>
 
 ---
 
@@ -16,78 +12,60 @@ I have research and industry experience developing deep learning systems across 
 
 ---
 
-<br>
-
-<div align="center">
-
-
-
-<div align="center">
-
-### AI Engineer • Researcher • Builder
+## AI Engineer • Researcher • Builder
 
 Turning ideas into scalable intelligent systems that solve real-world problems.
-
-</div>
 
 ---
 
 <table width="100%">
 <tr>
 
-<td width="25%" align="center" valign="top">
+<td width="25%" valign="top">
 
 <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/AIML.png" width="70"/>
 
-<h2>AI & ML</h2>
+### AI & ML
 
-<p>
-LLMs • RAG <br>
-NLP • CV <br>
+LLMs • RAG  
+NLP • CV  
 Transformers
-</p>
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="25%" valign="top">
 
 <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/CV.png" width="70"/>
 
-<h2>Computer Vision</h2>
+### Computer Vision
 
-<p>
-YOLO • ViT • U-Net <br>
-OpenCV <br>
+YOLO • ViT • U-Net  
+OpenCV  
 Medical Imaging
-</p>
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="25%" valign="top">
 
 <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/MLOPS.png" width="70"/>
 
-<h2>MLOps & Deployment</h2>
+### MLOps & Deployment
 
-<p>
-Docker • CI/CD <br>
-MLflow • FastAPI <br>
+Docker • CI/CD  
+MLflow • FastAPI  
 ONNX • APIs
-</p>
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="25%" valign="top">
 
 <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/analytics.png" width="70"/>
 
-<h2>Data & Analytics</h2>
+### Data & Analytics
 
-<p>
-Spark • SQL <br>
-Power BI • Tableau <br>
+Spark • SQL  
+Power BI • Tableau  
 Insights & Dashboards
-</p>
 
 </td>
 
@@ -96,8 +74,7 @@ Insights & Dashboards
 
 ---
 
-<div align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
@@ -113,10 +90,9 @@ Insights & Dashboards
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/openai/000000" height="55"/>
+</p>
 
-</div>
-
-
+---
 
 # 📒 RESEARCH INTERESTS
 
@@ -232,8 +208,7 @@ Insights & Dashboards
 
 ## 💻 Languages
 
-<div align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
 &nbsp;
 <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
@@ -243,8 +218,7 @@ Insights & Dashboards
 <img src="https://skillicons.dev/icons?i=js" height="55"/>
 &nbsp;
 <img src="https://skillicons.dev/icons?i=sql" height="55"/>
-
-</div>
+</p>
 
 </td>
 
@@ -252,8 +226,7 @@ Insights & Dashboards
 
 ## 🤖 AI & Deep Learning
 
-<div align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
 &nbsp;
 <img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
@@ -261,8 +234,7 @@ Insights & Dashboards
 <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="55"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/openai/000000" height="55"/>
-
-</div>
+</p>
 
 </td>
 
@@ -273,8 +245,6 @@ Insights & Dashboards
 <td width="50%" valign="top">
 
 ## 💬 NLP & LLMs
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/BERT-FFFFFF?style=for-the-badge&logo=google&logoColor=blue"/>
 <br><br>
@@ -287,15 +257,11 @@ Insights & Dashboards
 
 <img src="https://img.shields.io/badge/FAISS-FFFFFF?style=for-the-badge&logoColor=blue"/>
 
-</div>
-
 </td>
 
 <td width="50%" valign="top">
 
 ## 👁️ Computer Vision
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/YOLO-FFFFFF?style=for-the-badge"/>
 <br><br>
@@ -308,8 +274,6 @@ Insights & Dashboards
 
 <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=blue"/>
 
-</div>
-
 </td>
 
 </tr>
@@ -320,8 +284,7 @@ Insights & Dashboards
 
 # 🌐 PUBLICATIONS & PROFILES
 
-<div align="center">
-
+<p>
 <a href="https://scholar.google.com/citations?user=6JVhWuQAAAAJ&hl=en&oi=ao">
 <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/scholar.png" width="75"/>
 </a>
@@ -335,21 +298,16 @@ Insights & Dashboards
 <a href="https://www.researchgate.net/profile/Iftakhar-Khandokar">
 <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/rg.png" width="75"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-</div>
+</p>
 
 ---
 
-# *  CONTACT
-
-<div align="center">
+# 📫 CONTACT
 
 <table>
 <tr>
-<td align="center" width="420">
+
+<td valign="middle" width="420">
 
 <img src="https://img.icons8.com/fluency/48/new-post.png" width="28"/>
 
@@ -361,7 +319,7 @@ Insights & Dashboards
 
 </td>
 
-<td align="center" width="320">
+<td valign="middle" width="320">
 
 <img src="https://img.icons8.com/fluency/48/marker.png" width="30"/>
 
@@ -370,47 +328,36 @@ Insights & Dashboards
 <b>Milwaukee, Wisconsin, USA</b>
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-<b> Open to AI Research, Industry Collaboration & Global Opportunities</b>
-
-</div>
+<b>Open to AI Research, Industry Collaboration & Global Opportunities</b>
 
 ---
 
 # 📊 GITHUB STATS
 
-<div align="center">
-
+<p>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iftakharAK&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=111827&bg_color=ffffff"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharAK&layout=compact&hide_border=true&title_color=2563EB&text_color=111827&bg_color=ffffff"/>
-
-</div>
+</p>
 
 <br>
 
-<div align="center">
-
+<p>
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=iftakharAK&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=111827&currStreakNum=111827&sideNums=111827"/>
-
-</div>
+</p>
 
 <br>
 
-<div align="center">
-
+<p>
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftakharAK&theme=default"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
-
 ## “Building trustworthy AI systems with real-world impact.”
-
-</div>
