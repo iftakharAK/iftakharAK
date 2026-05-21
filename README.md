@@ -359,19 +359,22 @@ AI Opportunities
 <div align="center">
 
 <a href="https://scholar.google.com/citations?user=6JVhWuQAAAAJ&hl=en&oi=ao">
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/scholar.png" width="80"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/scholar.png" width="75"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/ifty-khandokar/">
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/linkedin.png" width="80"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/linkedin.png" width="75"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.researchgate.net/profile/Iftakhar-Khandokar">
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/rg.png" width="80"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/rg.png" width="75"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/iftakharAK">
-<img src="https://skillicons.dev/icons?i=github" width="65"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/github.png" width="75"/>
 </a>
 
 </div>
