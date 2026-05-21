@@ -94,14 +94,14 @@ Insights & Dashboards
 
 ---
 
-# 📒 RESEARCH INTERESTS
+#  RESEARCH INTERESTS
 
 <table width="100%">
 <tr>
 
 <td width="33%" valign="top">
 
-### 🧠 Medical AI
+###  Medical AI
 
 - Clinical NLP  
 - Healthcare LLMs  
@@ -112,7 +112,7 @@ Insights & Dashboards
 
 <td width="33%" valign="top">
 
-### 🌐 Multimodal AI
+###  Multimodal AI
 
 - Vision-Language Models  
 - Retrieval-Augmented Systems  
@@ -123,7 +123,7 @@ Insights & Dashboards
 
 <td width="33%" valign="top">
 
-### 📷 Computer Vision
+###  Computer Vision
 
 - Medical Imaging  
 - Object Detection  
@@ -137,14 +137,14 @@ Insights & Dashboards
 
 ---
 
-# ⭐ CURRENT WORK
+#  CURRENT WORK
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### 🔒 Clinical AI & NLP
+###  Clinical AI & NLP
 
 - Trustworthy PHI De-identification  
 - Hallucination Detection in LLMs  
@@ -155,7 +155,7 @@ Insights & Dashboards
 
 <td width="50%" valign="top">
 
-### ⚡ Intelligent Systems
+###  Intelligent Systems
 
 - Multi-Statement Contradiction Detection  
 - Verified Explanation Generation  
@@ -169,14 +169,14 @@ Insights & Dashboards
 
 ---
 
-# 💼 EXPERIENCE
+#  EXPERIENCE
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### 🎓 Academic
+###  Academic
 
 - PhD Candidate — Marquette University  
 - Research Assistant — Marquette University  
@@ -186,7 +186,7 @@ Insights & Dashboards
 
 <td width="50%" valign="top">
 
-### 💻 Industry
+###  Industry
 
 - Senior Machine Learning Engineer — Spectrum Software & Consulting Ltd.  
 - Machine Learning Engineer — eGeneration Ltd.  
@@ -198,7 +198,7 @@ Insights & Dashboards
 
 ---
 
-# 🛠️ TECHNOLOGY STACK
+#  TECHNOLOGY STACK
 
 <table width="100%">
 
@@ -206,7 +206,7 @@ Insights & Dashboards
 
 <td width="50%" valign="top">
 
-## 💻 Languages
+##  Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" height="55"/>
@@ -224,7 +224,7 @@ Insights & Dashboards
 
 <td width="50%" valign="top">
 
-## 🤖 AI & Deep Learning
+##  AI & Deep Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
@@ -244,7 +244,7 @@ Insights & Dashboards
 
 <td width="50%" valign="top">
 
-## 💬 NLP & LLMs
+##  NLP & LLMs
 
 <img src="https://img.shields.io/badge/BERT-FFFFFF?style=for-the-badge&logo=google&logoColor=blue"/>
 <br><br>
@@ -261,7 +261,7 @@ Insights & Dashboards
 
 <td width="50%" valign="top">
 
-## 👁️ Computer Vision
+##  Computer Vision
 
 <img src="https://img.shields.io/badge/YOLO-FFFFFF?style=for-the-badge"/>
 <br><br>
@@ -282,7 +282,7 @@ Insights & Dashboards
 
 ---
 
-# 🌐 PUBLICATIONS & PROFILES
+#  PUBLICATIONS & PROFILES
 
 <p>
 <a href="https://scholar.google.com/citations?user=6JVhWuQAAAAJ&hl=en&oi=ao">
@@ -302,7 +302,7 @@ Insights & Dashboards
 
 ---
 
-# 📫 CONTACT
+#  CONTACT
 
 <table>
 <tr>
@@ -338,7 +338,7 @@ Insights & Dashboards
 
 ---
 
-# 📊 GITHUB STATS
+#  GITHUB STATS
 
 <p>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iftakharAK&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=111827&bg_color=ffffff"/>
