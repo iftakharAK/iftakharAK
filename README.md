@@ -20,8 +20,7 @@ I have research and industry experience developing deep learning systems across 
 
 <div align="center">
 
-# BUILDING INTELLIGENT SOLUTIONS  
-# WITH AI, DATA & IMPACT
+
 
 ### AI Engineer • Researcher • Builder
 
