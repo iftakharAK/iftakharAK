@@ -47,7 +47,9 @@ Transformers
 
 <td width="25%" align="center">
 
-## 👁️ Computer Vision
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/CV.png" width="85"/>
+
+##  Computer Vision
 
 YOLO • ViT • U-Net  
 OpenCV  
