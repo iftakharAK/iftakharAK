@@ -22,6 +22,8 @@ I have research and industry experience developing deep learning systems across 
 
 
 
+<div align="center">
+
 ### AI Engineer • Researcher • Builder
 
 Turning ideas into scalable intelligent systems that solve real-world problems.
@@ -33,52 +35,59 @@ Turning ideas into scalable intelligent systems that solve real-world problems.
 <table width="100%">
 <tr>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/AIML.png" width="85"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/AIML.png" width="70"/>
 
-## AI & ML
+<h2>AI & ML</h2>
 
-LLMs • RAG  
-NLP • CV  
-Transformers  
-
-</td>
-
-<td width="25%" align="center">
-
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/CV.png" width="85"/>
-
-##  Computer Vision
-
-YOLO • ViT • U-Net  
-OpenCV  
-Medical Imaging  
+<p>
+LLMs • RAG <br>
+NLP • CV <br>
+Transformers
+</p>
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/MLOPS.png" width="85"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/CV.png" width="70"/>
 
-##  MLOps & Deployment
+<h2>Computer Vision</h2>
 
-Docker • CI/CD  
-MLflow • FastAPI  
-ONNX • APIs  
+<p>
+YOLO • ViT • U-Net <br>
+OpenCV <br>
+Medical Imaging
+</p>
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
-##  Data & Analytics
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/MLOPS.png" width="70"/>
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/analytics.png" width="85"/>
+<h2>MLOps & Deployment</h2>
 
+<p>
+Docker • CI/CD <br>
+MLflow • FastAPI <br>
+ONNX • APIs
+</p>
 
-Spark • SQL  
-Power BI • Tableau  
-Insights & Dashboards  
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/analytics.png" width="70"/>
+
+<h2>Data & Analytics</h2>
+
+<p>
+Spark • SQL <br>
+Power BI • Tableau <br>
+Insights & Dashboards
+</p>
 
 </td>
 
