@@ -379,7 +379,7 @@ AI Opportunities
 
 ---
 
-# 📫 CONTACT
+# *  CONTACT
 
 <div align="center">
 
