@@ -267,6 +267,31 @@ Insights & Dashboards
 </a>
 </p>
 
+
+
+## Computer Vision & NLP
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/python.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/Cplus.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/java.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/csharp.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/sql.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/js.png" height="58"/>
+
+</p>
+
 ---
 
 #  CONTACT
