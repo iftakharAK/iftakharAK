@@ -251,22 +251,21 @@ Insights & Dashboards
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/python.png" height="58"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/opencv.png" height="58"/>
 &nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/Cplus.png" height="58"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/yolo.png" height="58"/>
 &nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/java.png" height="58"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/NLTK.png" height="58"/>
 &nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/csharp.png" height="58"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/spacy.png" height="58"/>
 &nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/sql.png" height="58"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/fasttext.png" height="58"/>
 &nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/js.png" height="58"/>
 
 </p>
 
