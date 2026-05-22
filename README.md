@@ -224,26 +224,26 @@ Insights & Dashboards
 </p>
 
 
-## Boom
+## Machine Learning & AI
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/python.png" height="58"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/pytorch.png" height="58"/>
 &nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/Cplus.png" height="58"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/tensorflow.png" height="58"/>
 &nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/java.png" height="58"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/scikilearn.png" height="58"/>
 &nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/csharp.png" height="58"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/ChatGPT Image May 21, 2026, 03_56_42 PM.png" height="58"/>
 &nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/sql.png" height="58"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/keras.png" height="58"/>
 &nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/js.png" height="58"/>
+
 
 </p>
 
