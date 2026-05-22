@@ -200,85 +200,28 @@ Insights & Dashboards
 
 #  TECHNOLOGY STACK
 
-<table width="100%">
+## Languages
 
-<tr>
+<p align="left">
 
-<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/python.png" height="58"/>
+&nbsp;&nbsp;
 
-##  Languages
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/Cplus.png" height="58"/>
+&nbsp;&nbsp;
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=js" height="55"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=sql" height="55"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/java.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/csharp.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/sql.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/js.png" height="58"/>
+
 </p>
-
-</td>
-
-<td width="50%" valign="top">
-
-##  AI & Deep Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
-&nbsp;
-<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
-&nbsp;
-<img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="55"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/openai/000000" height="55"/>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-##  NLP & LLMs
-
-<img src="https://img.shields.io/badge/BERT-FFFFFF?style=for-the-badge&logo=google&logoColor=blue"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/DeBERTa-FFFFFF?style=for-the-badge&logoColor=blue"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/RAG-FFFFFF?style=for-the-badge&logoColor=blue"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/FAISS-FFFFFF?style=for-the-badge&logoColor=blue"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-##  Computer Vision
-
-<img src="https://img.shields.io/badge/YOLO-FFFFFF?style=for-the-badge"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/ViT-FFFFFF?style=for-the-badge"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/U--Net-FFFFFF?style=for-the-badge"/>
-<br><br>
-
-<img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=for-the-badge&logo=opencv&logoColor=blue"/>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
