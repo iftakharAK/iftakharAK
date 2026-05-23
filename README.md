@@ -337,30 +337,35 @@ Insights & Dashboards
 ---
 
 
-
 # CONTACT
 
-<p align="left">
-  <a href="mailto:iftakhar.khandokar@marquette.edu">
-    <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/mail.png" width="42" align="center"/>
-  </a>
-  &nbsp;
-  <a href="mailto:iftakhar.khandokar@marquette.edu">
-    <b>iftakhar.khandokar@marquette.edu</b>
-  </a>
+<table>
+<tr>
+<td valign="middle" style="border: none;">
+<a href="mailto:iftakhar.khandokar@marquette.edu">
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/mail.png" width="42" align="center"/>
+</a>
+</td>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td valign="middle" style="border: none; padding-right: 80px;">
+<a href="mailto:iftakhar.khandokar@marquette.edu">
+<b>iftakhar.khandokar@marquette.edu</b>
+</a>
+</td>
 
-  <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/location.png" width="42" align="center"/>
-  &nbsp;
-  <b>Milwaukee, Wisconsin, USA</b>
-</p>
+<td valign="middle" style="border: none;">
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/location.png" width="42" align="center"/>
+</td>
+
+<td valign="middle" style="border: none;">
+<b>Milwaukee, Wisconsin, USA</b>
+</td>
+</tr>
+</table>
 
 <br>
 
-<blockquote>
-<b>Open to AI Research, Industry Collaboration & Global Opportunities</b>
-</blockquote>
+> <b>Open to AI Research, Industry Collaboration & Global Opportunities</b>
 
 ---
 
