@@ -352,6 +352,24 @@ Insights & Dashboards
 
 </p>
 
+
+## Version Control & Collaboration
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/git.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/bit.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/gitlab.png" height="58"/>
+&nbsp;&nbsp;
+
+
+
+</p>
+
 ---
 
 #  PUBLICATIONS & PROFILES
