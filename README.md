@@ -269,6 +269,32 @@ Insights & Dashboards
 
 </p>
 
+
+## MLOps & Deployment
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/docker.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/mlflow.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/fastapi.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/flask.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/django.png" height="58"/>
+&nbsp;&nbsp;
+
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/ONNX.png" height="58"/>
+&nbsp;&nbsp;
+
+</p>
+
 ---
 
 #  PUBLICATIONS & PROFILES
