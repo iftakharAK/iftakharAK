@@ -295,6 +295,39 @@ Insights & Dashboards
 
 </p>
 
+
+## Data & Analytics
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/pandas.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/spark.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/powerbi.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/tableau.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/altair.png" height="58"/>
+&nbsp;&nbsp;
+
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/matplotlib.png" height="58"/>
+&nbsp;&nbsp;
+
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/plotly.png" height="58"/>
+&nbsp;&nbsp;
+
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/fabric.png" height="58"/>
+&nbsp;&nbsp;
+</p>
+
 ---
 
 #  PUBLICATIONS & PROFILES
