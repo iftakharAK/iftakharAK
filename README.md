@@ -369,41 +369,7 @@ Insights & Dashboards
 
 ---
 
-#  CONTACT
 
-<table>
-<tr>
-
-<td valign="middle" width="420">
-
-<img src="https://img.icons8.com/fluency/48/new-post.png" width="28"/>
-
-&nbsp;
-
-<a href="mailto:iftakhar.khandokar@marquette.edu">
-<b>iftakhar.khandokar@marquette.edu</b>
-</a>
-
-</td>
-
-<td valign="middle" width="320">
-
-<img src="https://img.icons8.com/fluency/48/marker.png" width="30"/>
-
-&nbsp;
-
-<b>Milwaukee, Wisconsin, USA</b>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<b>Open to AI Research, Industry Collaboration & Global Opportunities</b>
-
----
 
 #  GITHUB STATS
 
