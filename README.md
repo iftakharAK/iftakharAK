@@ -198,6 +198,115 @@ Insights & Dashboards
 
 ---
 
+
+# TECHNOLOGY STACK
+
+## Languages
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/python.png" width="60"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/Cplus.png" width="60"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/java.png" width="60"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/csharp.png" width="60"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/sql.png" width="60"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/js.png" width="60"/>
+</p>
+
+## Machine Learning & AI
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/pytorch.png" width="60"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/tensorflow.png" width="60"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/scikilearn.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/ChatGPT Image May 21, 2026, 03_56_42 PM.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/keras.png" width="60"/>
+</p>
+
+## Computer Vision & NLP
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/opencv.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/yolo.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/NLTK.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/spacy.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/fasttext.png" width="72"/>
+</p>
+
+## MLOps & Deployment
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/docker.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/mlflow.png" width="72"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/fastapi.png" width="72"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/flask.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/django.png" width="72"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/ONNX.png" width="72"/>
+</p>
+
+## Data & Analytics
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/pandas.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/spark.png" width="72"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/powerbi.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/tableau.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/altair.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/matplotlib.png" width="72"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/plotly.png" width="72"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/fabric.png" width="72"/>
+</p>
+
+## Cloud & Databases
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/aws.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/GC.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/AZML.png" width="72"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/mysql.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/posgresql.png" width="72"/>
+</p>
+
+## Version Control & Collaboration
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/git.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/bit.png" width="68"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/gitlab.png" width="68"/>
+</p>
+
+---
+
 #  TECHNOLOGY STACK
 
 ## Languages
