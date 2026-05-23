@@ -338,6 +338,44 @@ Insights & Dashboards
 
 
 
+# CONTACT
+
+<table>
+<tr>
+
+<td valign="middle" width="430">
+
+<a href="mailto:iftakhar.khandokar@marquette.edu">
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/mail.png" width="42" align="center"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:iftakhar.khandokar@marquette.edu">
+<b>iftakhar.khandokar@marquette.edu</b>
+</a>
+
+</td>
+
+<td valign="middle" width="340">
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/location.png" width="42" align="center"/>
+
+&nbsp;&nbsp;
+
+<b>Milwaukee, Wisconsin, USA</b>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<b>Open to AI Research, Industry Collaboration & Global Opportunities</b>
+
+---
+
 #  CONTACT
 
 <table>
