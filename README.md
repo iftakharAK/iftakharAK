@@ -328,6 +328,30 @@ Insights & Dashboards
 &nbsp;&nbsp;
 </p>
 
+
+
+## Cloud & Databases
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/aws.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/GC.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/AZML.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/mysql.png" height="58"/>
+&nbsp;&nbsp;
+
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/posgresql.png" height="58"/>
+&nbsp;&nbsp;
+
+
+</p>
+
 ---
 
 #  PUBLICATIONS & PROFILES
