@@ -295,20 +295,6 @@ Insights & Dashboards
 <img src="https://raw.githubusercontent.com/iftakharAK/assets/main/posgresql.png" width="72"/>
 </p>
 
-## Version Control & Collaboration
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/git.png" width="68"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/bit.png" width="68"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/gitlab.png" width="68"/>
-</p>
-
----
-
-
-
 
 ## Version Control & Collaboration
 
