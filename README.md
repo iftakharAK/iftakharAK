@@ -321,7 +321,7 @@ Insights & Dashboards
 <p align="left">
 
 <a href="https://scholar.google.com/citations?user=6JVhWuQAAAAJ&hl=en&oi=ao">
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/scholar.png" width="62"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/scholar.png" width="72"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/ifty-khandokar/">
@@ -329,7 +329,7 @@ Insights & Dashboards
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.researchgate.net/profile/Iftakhar-Khandokar">
-<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/rg.png" width="62"/>
+<img src="https://raw.githubusercontent.com/iftakharAK/assets/main/rg.png" width="72"/>
 </a>
 
 </p>
