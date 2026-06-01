@@ -373,47 +373,9 @@ Insights & Dashboards
 
 ---
 
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=iftakharAK&label=Profile+Views&color=2563EB&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/iftakharAK?label=Followers&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/iftakharAK?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iftakharAK&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iftakharAK&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharAK&layout=compact&hide_border=true"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=iftakharAK&hide_border=true"/>
-
-</p>
-
 ---
 
-# 🏆 RESEARCH HIGHLIGHTS
+# 📊 GITHUB & RESEARCH IMPACT
 
 <p align="center">
 
@@ -441,37 +403,52 @@ Insights & Dashboards
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 📈 DEVELOPMENT ACTIVITY
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iftakharAK&theme=github-light&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 FEATURED RESEARCH PROJECTS
 
 <table width="100%">
 
 <tr>
 <th align="left">Project</th>
-<th align="left">Research Area</th>
+<th align="left">Area</th>
+<th align="left">Technology</th>
 <th align="left">Status</th>
 </tr>
 
 <tr>
 <td><b>VeriGraph</b></td>
-<td>Multi-Statement Contradiction Detection • GNN • LLMs</td>
+<td>Contradiction Detection</td>
+<td>DeBERTa • GNN • RAG • LLMs</td>
 <td>📄 Published</td>
 </tr>
 
 <tr>
 <td><b>Trustworthy PHI De-identification</b></td>
-<td>Clinical NLP • DeepSeek • Explainable AI</td>
-<td>🚀 Active Research</td>
+<td>Clinical NLP</td>
+<td>DeepSeek • QLoRA • MIMIC-III</td>
+<td>🚀 Active</td>
 </tr>
 
 <tr>
 <td><b>SSABE-TSCM</b></td>
-<td>Financial Sentiment Analysis • Explainable AI</td>
+<td>Financial AI</td>
+<td>Semi-Supervised Learning • XAI</td>
 <td>📄 Published</td>
 </tr>
 
 <tr>
 <td><b>Healthcare Foundation Models</b></td>
-<td>Medical AI • LLM Fine-Tuning • RAG</td>
+<td>Medical AI</td>
+<td>LLMs • RAG • Explainable AI</td>
 <td>🔬 Ongoing</td>
 </tr>
 
@@ -479,11 +456,24 @@ Insights & Dashboards
 
 ---
 
-# 📈 CONTRIBUTION SUMMARY
+# 🏆 SELECTED ACHIEVEMENTS
+
+- 🎓 PhD Candidate in Electrical & Computer Engineering, Marquette University
+- 📚 200+ Google Scholar Citations
+- 📝 Multiple Publications in IEEE, Elsevier, Heliyon, Decision Analytics Journal, CBMS
+- 🏥 Research in Trustworthy AI, Clinical NLP, Medical Foundation Models, and Explainable AI
+- 🧠 Expertise in LLMs, RAG, Deep Learning, Computer Vision, and Healthcare AI
+- 🏆 Best Technical Solution Award — Dream Machine Hackathon 2026
+- 🏆 Best Technical Solution Award — Vibe Coding Hackathon 2026
+- 💼 Industry Experience in AI/ML, Computer Vision, NLP, and Intelligent Automation
+
+---
+
+# 📊 CONTRIBUTION OVERVIEW
 
 <p align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftakharAK&theme=default"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftakharAK&theme=default"/>
 
 </p>
 
