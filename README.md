@@ -371,24 +371,120 @@ Insights & Dashboards
 
 
 
-#  GITHUB STATS
+---
 
-<p>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iftakharAK&show_icons=true&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=111827&bg_color=ffffff"/>
+# 📊 GITHUB ANALYTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharAK&layout=compact&hide_border=true&title_color=2563EB&text_color=111827&bg_color=ffffff"/>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=iftakharAK&label=Profile+Views&color=2563EB&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/iftakharAK?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/iftakharAK?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge"/>
+
 </p>
 
 <br>
 
-<p>
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=iftakharAK&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=111827&currStreakNum=111827&sideNums=111827"/>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=iftakharAK&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=7"/>
+
 </p>
 
 <br>
 
-<p>
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iftakharAK&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftakharAK&layout=compact&hide_border=true"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=iftakharAK&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 RESEARCH HIGHLIGHTS
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PhD_Candidate-Marquette_University-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/200+-Google_Scholar_Citations-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IEEE-Author-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Healthcare-AI-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-RAG-purple?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Best_Technical_Solution-Dream_Machine_2026-gold?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Best_Technical_Solution-Vibe_Coding_2026-gold?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<table width="100%">
+
+<tr>
+<th align="left">Project</th>
+<th align="left">Research Area</th>
+<th align="left">Status</th>
+</tr>
+
+<tr>
+<td><b>VeriGraph</b></td>
+<td>Multi-Statement Contradiction Detection • GNN • LLMs</td>
+<td>📄 Published</td>
+</tr>
+
+<tr>
+<td><b>Trustworthy PHI De-identification</b></td>
+<td>Clinical NLP • DeepSeek • Explainable AI</td>
+<td>🚀 Active Research</td>
+</tr>
+
+<tr>
+<td><b>SSABE-TSCM</b></td>
+<td>Financial Sentiment Analysis • Explainable AI</td>
+<td>📄 Published</td>
+</tr>
+
+<tr>
+<td><b>Healthcare Foundation Models</b></td>
+<td>Medical AI • LLM Fine-Tuning • RAG</td>
+<td>🔬 Ongoing</td>
+</tr>
+
+</table>
+
+---
+
+# 📈 CONTRIBUTION SUMMARY
+
+<p align="center">
+
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftakharAK&theme=default"/>
+
 </p>
 
 ---
