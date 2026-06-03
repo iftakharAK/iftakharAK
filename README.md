@@ -375,23 +375,11 @@ Insights & Dashboards
 
 ---
 
-# 📊 GITHUB & RESEARCH IMPACT
+#  GITHUB & RESEARCH IMPACT
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/PhD_Candidate-Marquette_University-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/200+-Google_Scholar_Citations-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/IEEE-Author-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Healthcare-AI-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-RAG-purple?style=for-the-badge"/>
-
-</p>
-
-<br>
 
 <p align="center">
 
@@ -413,48 +401,7 @@ Insights & Dashboards
 
 ---
 
-# 🚀 FEATURED RESEARCH PROJECTS
 
-<table width="100%">
-
-<tr>
-<th align="left">Project</th>
-<th align="left">Area</th>
-<th align="left">Technology</th>
-<th align="left">Status</th>
-</tr>
-
-<tr>
-<td><b>VeriGraph</b></td>
-<td>Contradiction Detection</td>
-<td>DeBERTa • GNN • RAG • LLMs</td>
-<td>📄 Published</td>
-</tr>
-
-<tr>
-<td><b>Trustworthy PHI De-identification</b></td>
-<td>Clinical NLP</td>
-<td>DeepSeek • QLoRA • MIMIC-III</td>
-<td>🚀 Active</td>
-</tr>
-
-<tr>
-<td><b>SSABE-TSCM</b></td>
-<td>Financial AI</td>
-<td>Semi-Supervised Learning • XAI</td>
-<td>📄 Published</td>
-</tr>
-
-<tr>
-<td><b>Healthcare Foundation Models</b></td>
-<td>Medical AI</td>
-<td>LLMs • RAG • Explainable AI</td>
-<td>🔬 Ongoing</td>
-</tr>
-
-</table>
-
----
 
 # 🏆 SELECTED ACHIEVEMENTS
 
