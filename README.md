@@ -381,13 +381,7 @@ Insights & Dashboards
 
 
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/Best_Technical_Solution-Dream_Machine_2026-gold?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Best_Technical_Solution-Vibe_Coding_2026-gold?style=for-the-badge"/>
-
-</p>
 
 ---
 
@@ -416,7 +410,7 @@ Insights & Dashboards
 
 ---
 
-# 📊 CONTRIBUTION OVERVIEW
+#  CONTRIBUTION OVERVIEW
 
 <p align="center">
 
