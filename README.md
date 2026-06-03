@@ -385,7 +385,7 @@ Insights & Dashboards
 
 ---
 
-# 📈 DEVELOPMENT ACTIVITY
+#  DEVELOPMENT ACTIVITY
 
 <p align="center">
 
